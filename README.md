@@ -45,4 +45,4 @@ A simple GUI-based two-player Tic-Tac-Toe game developed using Java and the AWT 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-awt.git
+   git clone https://github.com/shankarpradhan/tic_tac_toe.git
